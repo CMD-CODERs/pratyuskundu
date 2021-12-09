@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there I am Pratyus Kundu.👋
 
+
+- 🔭 I’m currently working on App Development
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: pratyus.kundu@gmail.com
 <!--
 **pratyuskundu/pratyuskundu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
